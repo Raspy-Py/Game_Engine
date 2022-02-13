@@ -15,6 +15,9 @@ Simple engine with 2D roguelike game built on top of it.
 >4. Build project.
 >5. Run it.
 
+## Guideline
+> Open [docs/workflow_guideline.txt](https://github.com/Raspy-Py/Game_Engine/blob/main/docs/workflow_guideline.txt) for info.
+
 
 ## Contributing
 
