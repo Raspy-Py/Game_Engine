@@ -48,7 +48,7 @@ void foo(std::vector<int> a, MyClass b); - not correct
 8. Every method should entirely fit on the screen on 100% scale.
 If it's got bigger - split it.
 
-9. Don't use namespaces.
+9. Use dg:: namespace for engine modules.
 
 10. Use constants instead of macroses.
 
